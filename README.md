@@ -1,5 +1,5 @@
-# :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-***SMS/Email/Whatsapp/Twitter/Instagram 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡ Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.*** 
+# :boom::bomb::bomb::bomb: BOOMBERs :bomb::bomb::bomb::boom:
+***SMS/Email/Whatsapp/Twitter/Instagram 𝔹𝕠𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡ Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.*** 
 
 | Status | Description | Color Code |
 |--------|-------------|------------|
@@ -8,7 +8,7 @@
 |Others| Pending, Some anothers issues OR not checked that is it working or not.| ![Others](https://i.ibb.co/pQwqwcN/3.png)|
 
 
-### SMS BOMBERS :calling: :boom:
+### SMS BOOMBERS :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
 |1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> | Sending continues sms from using one single link. NOTE: Sms_bomber.py is now working too Thanks to [Ghost](https://github.com/ghost). Also refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a> | <a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a>| ![Working](https://i.ibb.co/3FntR1c/1.png) |
@@ -29,7 +29,7 @@
 |16.| <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>|Superfast SMS bomber for linux and termux, Also sends OTP to whatsapp. |<a href="https://github.com/anubhavanonymous">anubhavanonymous</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 |17.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
-### EMAIL BOMBERS :e-mail: :boom:
+### EMAIL BOOMBERS :e-mail: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
 |1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> |Sending continues email. Update with Outlook bomber as well |[xyzricky](https://github.com/xyzricky)|![Working](https://i.ibb.co/3FntR1c/1.png) |
@@ -46,7 +46,7 @@
 |12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://i.ibb.co/3FntR1c/1.png) |
 |13.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
-### Whats-app Bombers :calling: :boom:
+### Whats-app Boombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
 |1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a>| Whatsapp-bomber sending multipal message to a single user.|<a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a> Last Modified: [getPoland](https://github.com/getPoland)|![Working](https://i.ibb.co/3FntR1c/1.png)|
@@ -55,7 +55,7 @@
 |4.| <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> | WhatsApp-Spam scripts | [macr1408](https://github.com/macr1408)|![Others](https://i.ibb.co/pQwqwcN/3.png) |
 |5.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
-### Twitter Bombers :boom:
+### Twitter Boombers :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
 |1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/Twitter_bomber.py">Twitter_bomber.py</a> |Twitter-bomber this will allow spamming the twitter inbox of a person with the message you want, the person who is using this must make sure that the inbox of the user who will be spammed is open. | [akshaykalucha3](https://github.com/akshaykalucha3)|![Working](https://i.ibb.co/3FntR1c/1.png) |
