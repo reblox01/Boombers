@@ -11,10 +11,10 @@
 ### SMS BOOMBERS :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> | Sending continues sms from using one single link. NOTE: Sms_bomber.py is now working too Thanks to [Ghost](https://github.com/ghost). Also refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a> | <a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a>| ![Working](https://i.ibb.co/3FntR1c/1.png) |
-|2.| <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> | Sending continues sms from using one Multiple links.| <a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a>| ![Others](https://i.ibb.co/pQwqwcN/3.png)|
+|1.| <a href="https://github.com/REBLOX01/Boombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> | Sending continues sms from using one single link. NOTE: Sms_bomber.py is now working too Thanks to [Ghost](https://github.com/ghost). Also refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a> | <a href="https://github.com/REBLOX01/Boombers/blob/master">REBLOX01</a>| ![Working](https://i.ibb.co/3FntR1c/1.png) |
+|2.| <a href="https://github.com/REBLOX01/Boombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> | Sending continues sms from using one Multiple links.| <a href="https://github.com/REBLOX01/Boombers/blob/master">REBLOX01</a>| ![Others](https://i.ibb.co/pQwqwcN/3.png)|
 |3.| <a href="https://github.com/iMro0t/bomb3r">bomb3r 💣</a> |Sending continues sms from on specified mobile number (25 different sms providers) |<a href="https://github.com/iMro0t">iMro0t</a> | ![Working](https://i.ibb.co/3FntR1c/1.png) |
-|4.| <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> | Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update) |<a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a>|![Others](https://i.ibb.co/pQwqwcN/3.png) |
+|4.| <a href="https://github.com/REBLOX01/Boombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> | Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update) |<a href="https://github.com/REBLOX01/Boombers/blob/master">REBLOX01</a>|![Others](https://i.ibb.co/pQwqwcN/3.png) |
 |5.| <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB</a>| Your Own SmS BomBer...!!! |[Bhai4You](https://github.com/Bhai4You) |![Others](https://i.ibb.co/pQwqwcN/3.png) |
 |6.| <a href="https://github.com/KANG-NEWBIE/SpamSms">SpamSms</a> |Spamming mobile number with OTP.|<a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>|![Others](https://i.ibb.co/pQwqwcN/3.png)|
 |7.| <a href="https://github.com/KANG-NEWBIE/C-SpamMasal">C-SpamMasal</a> |Spamming mobile number with OTP. |<a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>|![Others](https://i.ibb.co/pQwqwcN/3.png) |
@@ -32,7 +32,7 @@
 ### EMAIL BOOMBERS :e-mail: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> |Sending continues email. Update with Outlook bomber as well |[xyzricky](https://github.com/xyzricky)|![Working](https://i.ibb.co/3FntR1c/1.png) |
+|1.| <a href="https://github.com/REBLOX01/Boombers/blob/master/Email_bomber.py">Email_bomber.py</a> |Sending continues email. Update with Outlook bomber as well |[xyzricky](https://github.com/xyzricky)|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |2.| <a href="https://github.com/zanyarjamal/Email-bomber">Email_bomber</a> |Sending continues email. |[zanyarjamal](https://github.com/zanyarjamal) |![Working](https://i.ibb.co/3FntR1c/1.png) |
 |3.| <a href="https://github.com/MrMugiwara/Email-Bomb">Email_bomb</a> |Sending continues email using your yahoo and gmail account.|[MrMugiwara](https://github.com/MrMugiwara)|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |4.| <a href="https://github.com/MazenElzanaty/EmBomber">EmBomber</a>| Email Bomber. |<a href="https://github.com/MazenElzanaty">MazenElzanaty</a>|![Others](https://i.ibb.co/pQwqwcN/3.png)|
@@ -49,7 +49,7 @@
 ### Whats-app Boombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a>| Whatsapp-bomber sending multipal message to a single user.|<a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a> Last Modified: [getPoland](https://github.com/getPoland)|![Working](https://i.ibb.co/3FntR1c/1.png)|
+|1.| <a href="https://github.com/REBLOX01/Boombers/blob/master/wbomb.py">wbomb.py</a>| Whatsapp-bomber sending multipal message to a single user.|<a href="https://github.com/REBLOX01/Boombers/blob/master">bhattsameer</a> Last Modified: [getPoland](https://github.com/getPoland)|![Working](https://i.ibb.co/3FntR1c/1.png)|
 |2.| <a href="https://github.com/tbhaxor/whatabomb">whatabomb</a>  | Whats-app bomber GUI. | [tbhaxor](https://github.com/tbhaxor)|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |3.| <a href="https://github.com/rizwansoaib/WhatsApp-monitor">WhatsApp-Bomber</a> | WhatsApp Monitor+Bomber (Chrome Extension)| [rizwansoaib](https://github.com/rizwansoaib)|![Not-Working](https://i.ibb.co/wWtD8S6/2.png)|
 |4.| <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> | WhatsApp-Spam scripts | [macr1408](https://github.com/macr1408)|![Others](https://i.ibb.co/pQwqwcN/3.png) |
@@ -58,7 +58,7 @@
 ### Twitter Boombers :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/Twitter_bomber.py">Twitter_bomber.py</a> |Twitter-bomber this will allow spamming the twitter inbox of a person with the message you want, the person who is using this must make sure that the inbox of the user who will be spammed is open. | [akshaykalucha3](https://github.com/akshaykalucha3)|![Working](https://i.ibb.co/3FntR1c/1.png) |
+|1.| <a href="https://github.com/REBLOX01/Boombers/blob/master/Twitter_bomber.py">Twitter_bomber.py</a> |Twitter-bomber this will allow spamming the twitter inbox of a person with the message you want, the person who is using this must make sure that the inbox of the user who will be spammed is open. | [akshaykalucha3](https://github.com/akshaykalucha3)|![Working](https://i.ibb.co/3FntR1c/1.png) |
 
 
 ### TEMP & Fake-SMS Collection:  
@@ -73,7 +73,7 @@
 |1.| https://mailspammer.cf | Email Spammer Website. Spam piles and piles of emails! |[WOLFIE_OG](https://github.com/WOLFIE-OG)|![Not-Working](https://i.ibb.co/wWtD8S6/2.png) |
 |2.| <a href="https://github.com/HoneyPots0/HPomb">HPomb</a>|HPomb Call, SMS and mail bomber all in one. |[HoneyPots0](https://github.com/HoneyPots0)|![Others](https://i.ibb.co/pQwqwcN/3.png)|
 |3.| <a href="https://github.com/b31ngD3v/bomberthon">bomberthon</a> |Best Bombing Tool with WhatsApp, Instagram, SMS bomber | [b31ngD3v](https://github.com/b31ngD3v)|![Working](https://i.ibb.co/3FntR1c/1.png)|
-|4.| <a href="https://github.com/bhattsameer/Bombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://i.ibb.co/3FntR1c/1.png)|
+|4.| <a href="https://github.com/REBLOX01/Boombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://i.ibb.co/3FntR1c/1.png)|
 
 
 ## Contributors:
