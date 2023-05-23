@@ -76,18 +76,6 @@
 |4.| <a href="https://github.com/REBLOX01/Boombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://i.ibb.co/3FntR1c/1.png)|
 
 
-## Contributors:
-
-To keep this collection up-to-date need contributors who can add more mobile/email/whatsapp/twitter scripts and github repo here at one place.  
-||||
-|--------------|----------|----------|
-|:octocat: [iMro0t](https://github.com/iMro0t)|:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)|:octocat: [bagarrattaa](https://github.com/bagarrattaa)|
-|:octocat: [rizwansoaib](https://github.com/rizwansoaib)|:octocat: [xyzricky](https://github.com/xyzricky)|  |
-|:octocat: [scienceLabwork](https://github.com/scienceLabwork)|:octocat: [timofey260](https://github.com/timofey260)|  |
-|:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  |
-|:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)| |  
-|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)| |
-|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [ebankoff](https://github.com/ebankoff)| |
 
 ## Note:
 
